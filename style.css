@@ -2,7 +2,8 @@ body {
 	font: 75% georgia, sans-serif;
 	line-height: 1.88889;
 	color: #555753; 
-	background: #fff url(asset/blossoms.jpg) no-repeat bottom right; 
+	background: #fff url(asset/galaxy.jfif) no-repeat top left;
+	background-size: 100% auto;
 	margin: 0; 
 	padding: 0;
 }
